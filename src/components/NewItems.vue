@@ -35,7 +35,7 @@ const getItems = () => {
 };
 
 onMounted(() => {
-  store.getItems();
+  // store.getItems();
 });
 </script>
 
